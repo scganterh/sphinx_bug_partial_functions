@@ -1,0 +1,4 @@
+*.rst
+/__pycache__/
+/html/
+/venv/
